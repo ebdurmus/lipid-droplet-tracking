@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+tifffile
+scikit-image
+trackpy
+pytest

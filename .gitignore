@@ -1,0 +1,22 @@
+
+# Python environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Private experimental data
+data/real/
+data/private/
+
+# Temporary files
+.ipynb_checkpoints/
+.pytest_cache/
