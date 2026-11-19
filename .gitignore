@@ -20,3 +20,6 @@ data/private/
 # Temporary files
 .ipynb_checkpoints/
 .pytest_cache/
+
+# Generated analysis outputs
+results/*.csv
